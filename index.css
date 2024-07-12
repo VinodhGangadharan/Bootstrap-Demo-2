@@ -1,0 +1,27 @@
+body
+{
+background-color:lightgrey;
+}
+
+.fa
+{
+color:blueviolet;
+}
+
+.box-part
+{
+    background-color: white;
+    padding: 30px 50px;
+    margin: 30px 5px;
+}
+
+p
+{
+    font-size : 14px;
+    margin: 15px 5px;
+}
+
+.box
+{
+padding: 40px 150px;
+}
